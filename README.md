@@ -13,3 +13,8 @@ A Python-based high-performance computing repository focused on predicting river
 
 ---
 *Developed by [Dodi]* - Candidate for the EngD Engineering Doctorate in Forecasting Plastic Pollution Reduction.
+## 📚 Scientific References & Formulations
+The mathematical equations, decay factors, and hydrological probability constraints implemented in this simulation are strictly based on the following peer-reviewed literature:
+
+- **Primary Study:** Meijer, L. J. J., van Emmerik, T., van der Ent, R., Schmidt, C., & Lebreton, L. (2021). *More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean*. **Science Advances**, 7(18), eaaz5803. DOI: 10.1126/sciadv.aaz5803
+- **Methodological Framework:** van Emmerik, T., et al. (2018). *A methodology to characterize riverine macroplastic emission into the ocean*. **Frontiers in Marine Science**, 5, 372.
