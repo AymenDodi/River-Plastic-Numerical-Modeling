@@ -1,6 +1,6 @@
 # 🌊 River Plastic Transport & Numerical Modeling Across Europe
 
-[Open In Colab] https://colab.research.google.com/drive/16TqSCF6D-CtB8LeqIenRIII1j4Ki4Pjm#scrollTo=8PGH4faThPaj
+[Open In Colab] https://github.com/DuaaMusaad/River-Plastic-Numerical-Modeling/blob/main/River_Plastic_Numerical_Modeling.ipynb
 A Python-based high-performance computing repository focused on predicting riverine macroplastic transport, retention rates, and coastal leakage probabilities across European river basins. This project implements advanced probabilistic frameworks inspired by the methodology of Meijer & van Emmerik (2021).
 
 ## 🚀 Analytical Features Implemented
