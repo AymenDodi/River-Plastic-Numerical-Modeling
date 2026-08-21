@@ -12,7 +12,7 @@ A Python-based high-performance computing repository focused on predicting river
 - **Data Visualization:** Matplotlib (Color-coded bar charts)
 
 ---
-*Developed by [Dodi]* - Candidate for the EngD Engineering Doctorate in Forecasting Plastic Pollution Reduction.
+*Developed by [Duaa Ahmed Kassir]
 ## 📚 Scientific References & Formulations
 The mathematical equations, decay factors, and hydrological probability constraints implemented in this simulation are strictly based on the following peer-reviewed literature:
 
